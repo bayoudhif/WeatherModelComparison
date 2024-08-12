@@ -1,0 +1,10 @@
+name: my_notebook_env
+dependencies:
+  - python=3.11.5  
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - scipy
+  - joblib
